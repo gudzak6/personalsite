@@ -1,13 +1,35 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/IMG_0905.JPG"
 ---
+![](/media/IMG_0905.JPG)
+*Go Hawks!*
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+Spent my College days at Monmouth University: </br>
+📒 Studied and graduated with a degree in Software Engineering. </br>
+⚽️ Had a great time being a Hawk and playing Divison 1 Soccer </br>
+🚀 Traveled to Guatemala on Alternative Spring Break trips 
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+![Meet my new puppy, Hudson!](/media/IMG_6078.JPG)
+*Me and @mattsheenan in Guatemala*
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Work Life: </br>
+• Became obsessed with entrepreneurship and building product while working as a PM intern at Trufishing </br>
+• Spent some time working as a Data Analyst at Millstone Financial </br>
+• Worked as a Full stack Developer at Winston Benefits </br>
+• Currently working in the Customer Office at Prudential Finanicial as an Associate Product Manager </br>
+• Inspired by my trips to Guatemala, started a non-profit to allow others to volunteer internationally and create change! <a target="_blank" href="https://www.impow3r.com/">Learn more here: Impow3r</a> ) </br>
+🐶Spending my non working days taking care of my new puppy
+
+![Meet my new puppy, Hudson!](/media/IMG_1045.JPG)
+*[Just a nice pic of my new puppy Hudson!*
+
+
+
+
+
+
+
+

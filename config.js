@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Joey Gudzak',
+  subtitle: 'Hi! I am a Product Manager based in New Jersey, Welcome to my site.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -12,31 +12,39 @@ module.exports = {
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
-    },
-    {
       label: 'About me',
       path: '/pages/about'
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: 'What am I up to?',
+      path: '/pages/upto'
+    },
+    {
+      label: "Books I've read",
+      path: '/pages/books'
+    },
+    {
+      label: 'Side Projects',
+      path: '/pages/sideprojects'
+    },
+    {
+      label: 'Blog',
+      path: '/'
+    },
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: 'Joey Gudzak',
+    photo: '/IMG_1624.JPG',
+    bio: "Hi! I am a Product Manager based in New Jersey, Welcome to my site, Let's connect!",
     contacts: {
-      email: '',
+      email: 'gudzak6@yahoo.com',
       facebook: '#',
       telegram: '#',
-      twitter: '#',
-      github: '#',
+      twitter: 'https://twitter.com/The__Gudz',
+      github: 'https://github.com/gudzak6',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/jgudzak/',
       instagram: '#',
       line: '',
       gitlab: '',
